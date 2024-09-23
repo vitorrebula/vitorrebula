@@ -4,7 +4,9 @@
 
 
 
-<p align="left">Currently graduating in Software Engineering, 3st period. My main strengths are patience, leadership, organization and commitment. I am passionate about seeking for knowledge, especially when it´s about software developing, programming, or cybersecurity so I always try to learn new programming languages and keep up to date in a self-taught way. I have a personal goal to be the best possible regardless of the area. I currently work as a logistics supervisor for Amitran Mudanças e Transportes, where my organization and planning are essential.
+<p align="left">Currently pursuing a degree in Software Engineering, I’m in my 3rd semester and have developed strong qualities like patience, leadership, organization, and dedication. I'm passionate about continuous learning, particularly in software development. I currently work at Vetta, a company within the SMS Group, where I specialize as a developer focusing on React with TypeScript. My role involves utilizing libraries such as ReactFlow and building components with a strong emphasis on best practices, performance optimization, and unit testing.
+
+At Vetta, I've also gained significant experience working with Node.js and PostgreSQL, broadening my backend skills. While I have a deep appreciation for front-end development—my primary passion—I enjoy thinking holistically about a product’s entire workflow. Beyond my role at Vetta, I also freelance, creating systems and web pages. I take great satisfaction in designing seamless user experiences, always striving to bridge functionality with aesthetic appeal. Ultimately, front-end development remains my preferred area, where I can merge my technical expertise with my enthusiasm for design.
 
 
 <h3 align="left">Connect with me!</h3>
