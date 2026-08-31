@@ -4,9 +4,15 @@
 
 
 
-<p align="left">Currently pursuing a degree in Software Engineering, I’m in my 5th semester and have developed strong qualities like organization, and dedication. I'm passionate about continuous learning, particularly in software development. I currently work at Vetta, a company within the SMS Group, where I specialize as a developer focusing on React with TypeScript. My role involves utilizing libraries such as ReactFlow and building components with a strong emphasis on best practices, performance optimization, and unit testing.
+<p align="left">Currently pursuing a degree in Software Engineering at PUC Minas, with graduation expected in 2027, I've spent the past three years building real-world software across the stack. I'm driven by continuous learning and genuinely curious about how technology, especially AI, is reshaping the way we build products.
 
-At Vetta, I've also gained significant experience working with Node.js and PostgreSQL, broadening my backend skills. While I have a deep appreciation for front-end development—my primary passion — I enjoy thinking holistically about a product’s entire workflow. Beyond my role at Vetta, I also freelance, creating systems and web pages. I take great satisfaction in designing seamless user experiences, always striving to bridge functionality with aesthetic appeal. Ultimately, front-end development remains my preferred area, where I can merge my technical expertise with my enthusiasm for design.
+I currently work at LEVTY, where I specialize in AI-powered development, building solutions with LLMs, AI agents, LangChain, and LangGraph. I actually took the initiative to establish AI as a standard practice in my team's workflow, using agents for code writing and code review to boost both productivity and quality. I also work on data-heavy integrations, having designed a stateless computation layer using Elasticsearch to process over 1 million records for real-time analysis.
+
+Before that, I worked at Vetta (SMSGroup), where I specialized in React with TypeScript, using libraries like React Flow and building components with a strong focus on best practices, performance, and unit testing. I also broadened my backend skills there, working with Node.js, Kafka, and PostgreSQL, and helped replace polling-based monitoring with real-time updates via WebSocket.
+
+While I've grown to enjoy thinking holistically about a product's entire workflow, from backend architecture to user-facing interfaces, front-end development remains where I feel most at home. I love the intersection of solid engineering and thoughtful design, building interfaces that are not just functional, but genuinely pleasant to use.
+
+Beyond writing code, I care a lot about sharing what I learn. I mentor interns and junior developers at work, and I actively build side projects and join hackathons to keep exploring new tools and ideas. That same passion for teaching shows up outside of tech too, I'm a blue belt in jiu-jitsu and enjoy helping beginners find their footing on the mats.
 
 
 <h3 align="left">Connect with me!</h3>
